@@ -1,0 +1,41 @@
+
+        h1 {
+            color: blue;
+        }
+
+      /*  * {
+            border: solid;
+        }h*/
+
+.header{
+background-color: cyan;
+display: flex;
+justify-content: space-between;
+
+}
+.subheading{
+
+
+
+
+
+
+}
+
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+}
+.footer{
+display:flex;
+justify-content:flex-end;
+}
+
+p,h2{
+text-align: center;
+color:red;
+
+}
